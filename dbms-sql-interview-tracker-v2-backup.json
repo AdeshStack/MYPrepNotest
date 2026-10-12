@@ -1,0 +1,62 @@
+{
+  "format": "interview-prep-hub-progress-v1",
+  "storageKey": "dbms-sql-interview-tracker-v2",
+  "exportedAt": "2026-10-12T08:55:35.358Z",
+  "data": {
+    "1": {
+      "reviewed": true,
+      "important": true,
+      "open": true
+    },
+    "2": {
+      "reviewed": true,
+      "important": false,
+      "open": true
+    },
+    "3": {
+      "reviewed": true,
+      "important": false,
+      "open": true
+    },
+    "4": {
+      "reviewed": true,
+      "important": true,
+      "open": true
+    },
+    "5": {
+      "reviewed": true,
+      "important": true,
+      "open": true
+    },
+    "6": {
+      "reviewed": true,
+      "important": true,
+      "open": false
+    },
+    "7": {
+      "reviewed": true,
+      "important": true,
+      "open": false
+    },
+    "8": {
+      "reviewed": true,
+      "important": true,
+      "open": false
+    },
+    "9": {
+      "reviewed": true,
+      "important": false,
+      "open": false
+    },
+    "10": {
+      "reviewed": true,
+      "important": false,
+      "open": false
+    },
+    "11": {
+      "reviewed": true,
+      "important": true,
+      "open": false
+    }
+  }
+}

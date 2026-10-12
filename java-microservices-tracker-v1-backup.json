@@ -1,0 +1,943 @@
+{
+  "format": "interview-prep-hub-progress-v1",
+  "storageKey": "java-microservices-tracker-v1",
+  "exportedAt": "2026-10-12T08:55:47.166Z",
+  "data": {
+    "1": {
+      "reviewed": true,
+      "important": false,
+      "rating": 1,
+      "open": false
+    },
+    "2": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "3": {
+      "reviewed": true,
+      "important": false,
+      "rating": 3,
+      "open": false
+    },
+    "4": {
+      "reviewed": true,
+      "important": false,
+      "rating": 3,
+      "open": false
+    },
+    "5": {
+      "reviewed": true,
+      "important": false,
+      "rating": 3,
+      "open": false
+    },
+    "6": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "7": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "8": {
+      "reviewed": true,
+      "important": false,
+      "rating": 2,
+      "open": false
+    },
+    "9": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "10": {
+      "reviewed": true,
+      "important": true,
+      "rating": 3,
+      "open": false
+    },
+    "11": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "12": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "13": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "14": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "15": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "16": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "17": {
+      "reviewed": true,
+      "important": false,
+      "rating": 1,
+      "open": false
+    },
+    "18": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "19": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "20": {
+      "reviewed": true,
+      "important": true,
+      "rating": 5,
+      "open": false
+    },
+    "21": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "22": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "23": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "24": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "25": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "26": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "27": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "28": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "29": {
+      "reviewed": true,
+      "important": false,
+      "rating": 4,
+      "open": false
+    },
+    "30": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "31": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "32": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "33": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "34": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "35": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "36": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "37": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "38": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "39": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "40": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "41": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "42": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "43": {
+      "reviewed": true,
+      "important": true,
+      "rating": 3,
+      "open": false
+    },
+    "44": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "45": {
+      "reviewed": true,
+      "important": false,
+      "rating": 4,
+      "open": false
+    },
+    "46": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "47": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "48": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "49": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "50": {
+      "reviewed": true,
+      "important": false,
+      "rating": 4,
+      "open": false
+    },
+    "51": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "52": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "53": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "54": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "55": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "56": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "57": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "58": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "59": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "60": {
+      "reviewed": true,
+      "important": true,
+      "rating": 5,
+      "open": false
+    },
+    "61": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "62": {
+      "reviewed": true,
+      "important": false,
+      "rating": 4,
+      "open": false
+    },
+    "63": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "64": {
+      "reviewed": true,
+      "important": true,
+      "rating": 5,
+      "open": false
+    },
+    "65": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "66": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "67": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "68": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "69": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "70": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "71": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "72": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "73": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "74": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "75": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "76": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "77": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "78": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "79": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "80": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "81": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "82": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "83": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "84": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "85": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "86": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "87": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "88": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "89": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "90": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "91": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "92": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "93": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "94": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "95": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "96": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "97": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "98": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "99": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "100": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "101": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "102": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "103": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "104": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "105": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "106": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "107": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "108": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "109": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "110": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "111": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "112": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "113": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "114": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "115": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "116": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "117": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "118": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "119": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "120": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "121": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "122": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "123": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "124": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "125": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "126": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "127": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "128": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "129": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "130": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "131": {
+      "reviewed": true,
+      "important": true,
+      "rating": 4,
+      "open": false
+    },
+    "132": {
+      "reviewed": true,
+      "important": true,
+      "rating": 3,
+      "open": false
+    },
+    "133": {
+      "reviewed": true,
+      "important": true,
+      "rating": 3,
+      "open": false
+    },
+    "134": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "135": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "136": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "137": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "138": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "139": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "140": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "141": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "142": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "143": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "144": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "145": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "146": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "147": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "148": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "149": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "150": {
+      "reviewed": true,
+      "important": true,
+      "rating": 5,
+      "open": false
+    },
+    "151": {
+      "reviewed": true,
+      "important": true,
+      "rating": 0,
+      "open": false
+    },
+    "152": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "153": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "154": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "155": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    },
+    "156": {
+      "reviewed": true,
+      "important": false,
+      "rating": 0,
+      "open": false
+    }
+  }
+}
